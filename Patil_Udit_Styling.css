@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+.h1_style {
+    color:white;
+    background-color: black;
+    text-align: left;
+    font-weight: bold;
+}
+
+.cloud_color {
+    color: cyan;
+    background-color: black;
+    text-align: left;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    background-color:rebeccapurple;
+    font-weight: normal;
+    text-align:center;
+    font-style: italic;
+}
+
+h3 {
+    color: black;
+    background-color:lightskyblue;
+    font-weight: normal;
+    text-align: right;
+    text-decoration: underline;
+}
